@@ -25,7 +25,7 @@ def play_game():
         else:
             print("請輸入提示範圍內的數字")
 
-while(True)"
+while(True):
     play_game()
     play_again = input("再玩一次(y,n):")
     if (play_again == 'n'):
